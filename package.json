@@ -1,0 +1,20 @@
+{
+  "name": "auto-mate",
+  "version": "1.0.0",
+  "description": "I say what what",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AGolumbovsky/auto-mate.git"
+  },
+  "author": "Andriy Golumbovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGolumbovsky/auto-mate/issues"
+  },
+  "homepage": "https://github.com/AGolumbovsky/auto-mate"
+}
