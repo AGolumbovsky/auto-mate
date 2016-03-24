@@ -1,6 +1,14 @@
 .wrapper {
 	text-align: center;
-	width: 600px;
+	width: 800px;
 	margin: auto;
 	background-color: #F9B8FC;
+}
+
+.logo-large {
+	text-align: center;
+}
+
+.ool {
+	text-align: left;
 }
